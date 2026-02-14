@@ -175,7 +175,7 @@ for(let i=0;i<30;i++){
 <script>
 const letterText = `Ginamos,  Bagnet,  Pritong Talong,  Fried Banana…
 
-Happy Heart's Day, Baby!!  Thanks for being my personal serotonin. Don’t even think about being jealous ‘cause others have someone—lucky for you… I’m here.  We’ve got the luxury of dumb jokes, the “expensive” date of remembering how we met, and all the weird little things that make us us. If you ever feel unloved or less valuable… nope. Not true. You are very much loved, appreciated, and yes, totally adored by me. ’Wag kang mainggit sa iba. Bakit? Kaya ba nilang gawin ‘to? don't this soooo hahahahah.
+Happy Heart's Day, Baby!!  Thanks for being my personal serotonin. Don’t even think about being jealous ‘cause others have someone—lucky for you… I’m here.  We’ve got the luxury of dumb jokes, the “expensive” date of remembering how we met, and all the weird little things that make us us. If you ever feel unloved or less valuable… nope. Not true. You are very much loved, appreciated, and yes, totally adored by me. ’Wag kang mainggit sa iba. Bakit? Kaya ba nilang gawin ‘to? don't think soooo hahahahah.
 
 I hope I made your day, today! love u`;
 
